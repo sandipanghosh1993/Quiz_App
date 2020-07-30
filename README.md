@@ -1,10 +1,10 @@
+## Quiz App
+
+This App is hosted on [https://teikametrics-quiz-app.herokuapp.com/](https://teikametrics-quiz-app.herokuapp.com/)
+
 ## Getting Started
 
 To get started make sure [node](https://nodejs.org/en/download/) is installed locally and then run `npm install` within this directory.
-
-See `requirements.md` for requirements of the App to create.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
